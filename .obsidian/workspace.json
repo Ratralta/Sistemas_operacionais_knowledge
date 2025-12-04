@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coisas/Diretor.md",
+                "file": "-- INDEX --.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diretor"
+              "title": "-- INDEX --"
             }
           }
         ]
@@ -185,19 +185,39 @@
   },
   "active": "c4aca8d2c5731c51",
   "lastOpenFiles": [
-    "coisas/PowerShell.md",
-    "coisas/WSL.md",
-    "Linux coisas/Linux.md",
+    "Sistemas Operacionais/Sistemas_Operacionais.md",
+    "Sistemas Operacionais/coisas/Partições.md",
+    "Sistemas Operacionais/Linux/Linux.md",
+    "Sistemas Operacionais/coisas/Diretor.md",
+    "Sistemas Operacionais/coisas/WSL.md",
+    "Sistemas Operacionais/coisas/PowerShell.md",
     "-- INDEX --.md",
-    "Linux coisas/Comandos_no_terminal_do_Linux.md",
-    "Linux coisas/Terminal_do_Linux.md",
-    "Linux coisas",
-    "coisas/Diretor.md",
-    "imagens/PowerShell.png",
-    "imagens/Diretor.png",
+    "-- Linux --.md",
+    "Sistemas.md",
+    "README.md",
+    "Sistemas Operacionais/coisas/Maquina virtual.md",
+    "imagem/particao_img_2.png",
+    "imagem/particao_img_1.png",
+    "imagem/bios_positivo_1.jpg",
+    "imagem/bios_positivo_2.jpg",
+    "imagem",
+    "coisas/iso.md",
+    "coisas/disco_de_boot.md",
+    "coisas/boot.md",
+    "coisas/BIOS.md",
+    "coisas",
+    "Sistemas Operacionais/coisas/imagens/Diretor.png",
+    "Sistemas Operacionais/coisas/imagens/PowerShell.png",
+    "Sistemas Operacionais/coisas/Terminal.md",
+    "Sistemas Operacionais",
+    "Sistemas Operacionais/Linux/Comandos_no_terminal_do_Linux.md",
+    "Linux/coisas/linux_sudo.md",
+    "Sistemas Operacionais/Linux/coisas",
+    "Sistemas Operacionais/Linux/Terminal_do_Linux.md",
+    "Sistemas Operacionais/Linux",
     "imagens/Diretor.php",
-    "imagens",
+    "Sistemas Operacionais/coisas/imagens",
     "Nova pasta",
-    "coisas"
+    "Sistemas Operacionais/coisas"
   ]
 }
